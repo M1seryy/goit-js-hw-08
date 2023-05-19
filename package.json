@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://M1seryy.github.io/goit-js-hw-08/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
@@ -18,8 +18,16 @@
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
+<<<<<<< HEAD
     "modern-normalize": "^1.1.0",
     "notiflix": "^3.2.6"
+=======
+    "@vimeo/player": "^2.19.0",
+    "lodash": "^4.17.21",
+    "lodash.throttle": "^4.1.1",
+    "modern-normalize": "^1.1.0",
+    "simplelightbox": "^2.13.0"
+>>>>>>> f920d0a9329c8a6306485a3cfe49f7edf9bf3571
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
